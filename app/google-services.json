@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948476296292",
+    "project_id": "intprog-pagobo",
+    "storage_bucket": "intprog-pagobo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948476296292:android:e4656898a5017ce1f97371",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkiu3BOL2kaS5MBssmJgD9c2eOmX_MP7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
